@@ -1,0 +1,15 @@
+# LaTeX auxiliary files
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+
+# (Opsional) Abaikan juga file PDF jika Anda hanya ingin menyimpan source code-nya
+# *.pdf
